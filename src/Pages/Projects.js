@@ -18,17 +18,17 @@ function Projects() {
         <Col md={6} className="project-card">
             <ProjectCards
               imgPath="https://user-images.githubusercontent.com/91063960/139678548-e58c550e-51c5-4695-a0c3-d6563737548a.png"
-              title="Flipkart-clone"
-              description="Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.Sijeesh Miziha's Flipkart clone is a ready-made remarkable multi-vendor eCommerce site Entrepreneurs can start their own business like Flipkart, it has RazorPay Integration and get money from anywhere, in mobile, web, and iOS platforms, Completely responsive design using Material UI."             
-              // link="https://github.com/sijeeshmiziha/flipkart"
+              title="GetScore"
+              description="GetScore is a cricket scorecard application which provides real-time updates and detailed statistics on cricket matches. It tracks scores, wickets, overs, and individual player performances. Users can follow live matches, view historical data, and analyze match progress with ball-by-ball commentary, making it an essential tool for cricket enthusiasts and analysts."             
+              link="https://github.com/gauravsharma25404/GetScore"
             />
           </Col>
           <Col md={6} className="project-card">
             <ProjectCards
               imgPath="https://user-images.githubusercontent.com/91063960/139376405-043d6cfd-93b3-4486-a07a-2ff3382846d8.png"
-              title="Olx-clone"
-              description="Olx-Clone is the potential classified advertisement website that categorizes objects in a user-friendly manner & displayed as an advertisement.., Classifieds can be posted that involve selling, buying, exchanging and will be adding a new feture that organizing to meet people nearby your location."
-              // link="https://github.com/sijeeshmiziha/olx"
+              title="Tweet-prediction model"
+              description="This tweet prediction model designed using R programming leverages natural language processing (NLP) and machine learning techniques to predict the success or engagement level of a tweet. By analyzing historical tweet data, such as likes, retweets, and replies, the model identifies patterns and trends. It uses techniques like sentiment analysis, text mining, and regression models to forecast the potential impact of new tweets. This model aids in optimizing social media strategies, helping users create more engaging and impactful content."
+              link="https://github.com/gauravsharma25404/Tweet_like_pridiction"
             />
           </Col>
 
